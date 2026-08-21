@@ -52,10 +52,10 @@ const cameras = [
   },
   {
     slug: 'canon-a2500silver',
-    name: 'Canon Powershot A2500 (Red)',
+    name: 'Canon Powershot A2500 (Silver)',
     category: 'barat',
     hit: false,
-    results: ['/results/kodak-c143/1.jpg', '/results/kodak-c143/2.jpg', '/results/kodak-c143/3.jpg', '/results/kodak-c143/4.jpg'],
+    results: ['/results/canon-a2500silver/1.jpg', '/results/canon-a2500silver/2.jpg', '/results/canon-a2500silver/3.jpg', '/results/canon-a2500silver/4.jpg'],
     pricelist: '/pricelists/pl-a2500silver.jpg',
   },
   {

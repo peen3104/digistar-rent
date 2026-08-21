@@ -5,6 +5,7 @@ import App from './App.jsx'
 // Bootstrap (buat grid & utility classes)
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap-icons/font/bootstrap-icons.css'
+import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 
 // Custom styling KLIKKU (desain tokens & override tampilan)
 import './index.css'

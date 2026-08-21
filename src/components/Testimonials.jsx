@@ -7,13 +7,13 @@ const testimonials = [
   },
   {
     name: 'Putri',
-    initial: 'R',
+    initial: 'P',
     bg: 'var(--sky)',
     text: 'Sewa buat acara ulang tahun, kameranya bersih dan baterainya awet seharian.',
   },
   {
     name: 'Faiz',
-    initial: 'A',
+    initial: 'F',
     bg: 'var(--peach)',
     text: 'Admin-nya responsif dan sabar jelasin cara pakainya, cocok buat pemula kayak aku.',
   },
