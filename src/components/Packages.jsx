@@ -88,14 +88,14 @@ const cameras = [
     category: 'tangerang',
     hit: false,
     results: ['/results/coolpix-s330/1.jpg', '/results/coolpix-s330/2.jpg', '/results/coolpix-s330/3.jpg', '/results/coolpix-s330/4.jpg'],
-    pricelist: '/pricelists/coolpix-s330.jpg',
+    pricelist: '/pricelists/pl-s330.jpg',
   },
   {
     slug: 'ixus-160',
     name: 'Canon Ixus 160',
     category: 'tangerang',
     hit: true,
-    results: ['/results/olympus-720sw/1.jpg', '/results/olympus-720sw/2.jpg', '/results/olympus-720sw/3.jpg', '/results/olympus-720sw/4.jpg'],
+    results: ['/results/ixus-160/1.jpg', '/results/ixus-160/2.jpg', '/results/ixus-160/3.jpg', '/results/ixus-160/4.jpg'],
     pricelist: '/pricelists/pl-ixus160.jpg',
   },
   {
@@ -103,7 +103,7 @@ const cameras = [
     name: 'Sony Cybershot W810',
     category: 'tangerang',
     hit: false,
-    results: ['/results/casio-exz3/1.jpg', '/results/casio-exz3/2.jpg', '/results/casio-exz3/3.jpg', '/results/casio-exz3/4.jpg'],
+    results: ['/results/sony-w810/1.jpg', '/results/sony-w810/2.jpg', '/results/sony-w810/3.jpg', '/results/sony-w810/4.jpg'],
     pricelist: '/pricelists/pl-w810tgr.jpg',
   },
 ]
