@@ -24,7 +24,7 @@ const cameras = [
     category: 'selatan',
     hit: true,
     results: ['/results/canon-a2600/1.jpg', '/results/canon-a2600/2.jpg', '/results/canon-a2600/3.jpg', '/results/canon-a2600/4.jpg'],
-    pricelist: '/pricelist/pl-powershot12600.jpg',
+    pricelist: '/pricelists/pl-powershot12600.jpg',
   },
   {
     slug: 'nikon-s3600',
@@ -32,7 +32,7 @@ const cameras = [
     category: 'selatan',
     hit: false,
     results: ['/results/nikon-s3600/1.jpg', '/results/nikon-s3600/2.jpg', '/results/nikon-s3600/3.jpg', '/results/nikon-s3600/4.jpg'],
-    pricelist: '/pricelist/pl-s3600.jpg',
+    pricelist: '/pricelists/pl-s3600.jpg',
   },
   {
     slug: 'sony-w810',
@@ -40,7 +40,7 @@ const cameras = [
     category: 'selatan',
     hit: false,
     results: ['/results/sony-w810/1.jpg', '/results/sony-w810/2.jpg', '/results/sony-w810/3.jpg', '/results/sony-w810/4.jpg'],
-    pricelist: '/pricelist/pl-w810.jpg',
+    pricelist: '/pricelists/pl-w810.jpg',
   },
   {
     slug: 'canon-a2500red',
@@ -48,7 +48,7 @@ const cameras = [
     category: 'barat',
     hit: false,
     results: ['/results/canon-a2500red/1.jpg', '/results/canon-a2500red/2.jpg', '/results/canon-a2500red/3.jpg', '/results/canon-a2500red/4.jpg'],
-    pricelist: '/pricelist/pl-a2500red.jpg',
+    pricelist: '/pricelists/pl-a2500red.jpg',
   },
   {
     slug: 'canon-a2500silver',
@@ -56,7 +56,7 @@ const cameras = [
     category: 'barat',
     hit: false,
     results: ['/results/kodak-c143/1.jpg', '/results/kodak-c143/2.jpg', '/results/kodak-c143/3.jpg', '/results/kodak-c143/4.jpg'],
-    pricelist: '/pricelist/pl-a2500silver.jpg',
+    pricelist: '/pricelists/pl-a2500silver.jpg',
   },
   {
     slug: 'fujifilm-finepix',
@@ -64,7 +64,7 @@ const cameras = [
     category: 'barat',
     hit: false,
     results: ['/results/fujifilm-finepix/1.jpg', '/results/fujifilm-finepix/2.jpg', '/results/fujifilm-finepix/3.jpg', '/results/fujifilm-finepix/4.jpg'],
-    pricelist: '/pricelist/pl-fujifilm.jpg',
+    pricelist: '/pricelists/pl-fujifilm.jpg',
   },
   {
     slug: 'nikon-coolpixs2500',
@@ -72,7 +72,7 @@ const cameras = [
     category: 'barat',
     hit: false,
     results: ['/resultsnikon-coolpixs2500/1.jpg', '/results/nikon-coolpixs2500/2.jpg', '/results/nikon-coolpixs2500/3.jpg', '/results/nikon-coolpixs2500/4.jpg'],
-    pricelist: '/pricelist/pl-coolpix.jpg',
+    pricelist: '/pricelists/pl-coolpix.jpg',
   },
   {
     slug: 'canon-ixus105',
@@ -80,7 +80,7 @@ const cameras = [
     category: 'tangerang',
     hit: true,
     results: ['/results/canon-ixus105/1.jpg', '/results/canon-ixus105/2.jpg', '/results/canon-ixus105/3.jpg', '/results/canon-ixus105/4.jpg'],
-    pricelist: '/pricelist/pl-ixus.jpg',
+    pricelist: '/pricelists/pl-ixus.jpg',
   },
   {
     slug: 'coolpix-s330',
@@ -88,7 +88,7 @@ const cameras = [
     category: 'tangerang',
     hit: false,
     results: ['/results/coolpix-s330/1.jpg', '/results/coolpix-s330/2.jpg', '/results/coolpix-s330/3.jpg', '/results/coolpix-s330/4.jpg'],
-    pricelist: '/pricelist/coolpix-s330.jpg',
+    pricelist: '/pricelists/coolpix-s330.jpg',
   },
   {
     slug: 'ixus-160',
@@ -96,7 +96,7 @@ const cameras = [
     category: 'tangerang',
     hit: true,
     results: ['/results/olympus-720sw/1.jpg', '/results/olympus-720sw/2.jpg', '/results/olympus-720sw/3.jpg', '/results/olympus-720sw/4.jpg'],
-    pricelist: '/pricelist/pl-ixus160.jpg',
+    pricelist: '/pricelists/pl-ixus160.jpg',
   },
   {
     slug: 'sony-w810',
@@ -104,7 +104,7 @@ const cameras = [
     category: 'tangerang',
     hit: false,
     results: ['/results/casio-exz3/1.jpg', '/results/casio-exz3/2.jpg', '/results/casio-exz3/3.jpg', '/results/casio-exz3/4.jpg'],
-    pricelist: '/pricelist/pl-w810tgr.jpg',
+    pricelist: '/pricelists/pl-w810tgr.jpg',
   },
 ]
 
